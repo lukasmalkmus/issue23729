@@ -10,6 +10,7 @@ Yes.
 
 ## What operating system and processor architecture are you using (`go env`)
 
+```text
 GOARCH="amd64"
 GOBIN=""
 GOEXE=""
@@ -31,6 +32,7 @@ CGO_CXXFLAGS="-g -O2"
 CGO_FFLAGS="-g -O2"
 CGO_LDFLAGS="-g -O2"
 PKG_CONFIG="pkg-config"
+```
 
 ## What did you do
 
